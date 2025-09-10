@@ -1,8 +1,8 @@
 # How to run
 
-1. Set up en variables `AUTH_TOKEN` and `VERCEL_PROTECTION_BYPASS`
-2. `$ yarn playwright test test.spec.ts --workers=1`
-3. Check the preport by the link in the console
+1. Set up env variables `AUTH_TOKEN` and `VERCEL_PROTECTION_BYPASS`
+2. Run `$ yarn playwright test test.spec.ts --workers=1`
+3. Check the report by the link in the console
 
 # Comments
 
